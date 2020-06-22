@@ -11,10 +11,10 @@ export default {
   props: {
     color: {
       type: String,
-      default: ""
+      default: ''
     }
   }
-};
+}
 </script>
 
 <style lang="sass" scoped>
@@ -50,10 +50,10 @@ export default {
   0%,
   80%,
   100%
-    -webkit-transform: scale(0)
+  -webkit-transform: scale(0)
 
   40%
-    -webkit-transform: scale(1)
+  -webkit-transform: scale(1)
 
 
 
